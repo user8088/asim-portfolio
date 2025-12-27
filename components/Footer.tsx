@@ -1,0 +1,117 @@
+import React from 'react';
+
+const Footer: React.FC = () => {
+  return (
+    <footer>
+      <div className="tp-footer-area tp-bg-grey-8 p-relative z-index-1 pt-105">
+        <span className="tp-footer-pp-shape">
+          <svg width="388" height="387" viewBox="0 0 388 387" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M153.543 353.042C232.437 407.657 338.974 385.855 388 360.553V0H27.4193C6.72806 31.4957 -22.2397 105.399 27.4193 152.207C77.0782 199.016 38.0944 289.787 12.3951 329.322C30.8458 309.291 81.5854 303.229 153.543 353.042Z" fill="white" fillOpacity="0.02" />
+          </svg>
+        </span>
+        <span className="tp-footer-pp-shape-2">
+          <svg width="388" height="387" viewBox="0 0 388 387" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M234.457 353.042C155.563 407.657 49.0263 385.855 0 360.553V0H360.581C381.272 31.4957 410.24 105.399 360.581 152.207C310.922 199.016 349.906 289.787 375.605 329.322C357.154 309.291 306.415 303.229 234.457 353.042Z" fill="white" fillOpacity="0.02" />
+          </svg>
+        </span>
+        <img className="tp-awards-bg-shape" src="/assets/img/awards/grid-shape.png" alt="" />
+        <div className="tp-footer-top pb-70">
+          <div className="container">
+            <div className="row align-items-end">
+              <div className="col-12">
+                <div className="tp-footer-top-social-wrap text-center mb-30">
+                  <span className="tp-footer-top-subtitle tp-text-theme-primary fw-500 fs-18 tp-ff-heading mb-5 d-inline-block tp_fade_anim" data-delay=".3">Get’s Started a Projects?</span>
+                  <h2 className="tp-footer-top-title rotate-text-anim tp-text-common-white lh-1 text-uppercase fw-500 mb-45">Let’s Work<br /> Together.</h2>
+                  <div className="tp-footer-social tp-footer-pp-social tp_fade_anim" data-delay=".4" data-fade-from="bottom" data-ease="bounce">
+                    <ul>
+                      <li>
+                        <a href="#">
+                          <i className="fa-brands fa-dribbble"></i>
+                          Dribbble
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#">
+                          <i className="fa-brands fa-behance"></i>
+                          Behance
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#">
+                          <i className="fa-brands fa-pinterest"></i>
+                          Pinterest
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#">
+                          <i className="fa-brands fa-dribbble"></i>
+                          LinkedIn
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="tp-footer-main pt-65 pb-15">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-3 col-md-6 col-sm-6">
+                <div className="tp-footer-widget mb-45 tp_fade_anim" data-delay=".3">
+                  <div className="tp-footer-logo">
+                    <a href="/"><img data-width="150" src="/assets/img/logo/logo-white.png" alt="" /></a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-3 col-md-6 col-sm-6">
+                <div className="tp-footer-pp-widget mb-40 tp_fade_anim" data-delay=".5">
+                  <h3 className="tp-footer-widget-title fw-500 fs-25 mb-10 text-uppercase tp-text-common-white">Quick Links</h3>
+                  <ul>
+                    <li><a href="#">About Me</a></li>
+                    <li><a href="#">My Portfolio</a></li>
+                    <li><a href="#">Contact Me</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div className="col-lg-6">
+                <div className="tp-footer-pp-widget ml-25 mb-40 tp_fade_anim" data-delay=".7">
+                  <span className="tp-ff-heading fw-500 fs-18 tp-text-common-white mb-35 d-inline-block">
+                    <i className="fa-regular fa-globe mr-5"></i>
+                    Based on California, USA
+                  </span>
+                  <div className="tp-footer-pp-link">
+                    <a className="mr-35" href="mailto:info@example.com">info@example.com</a>
+                    <a href="tel:+91-87643534353">+91-876 4353 4353</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="tp-footer-bottom">
+          <div className="container">
+            <div className="row">
+              <div className="col-12">
+                <div className="tp-footer-copyright text-center">
+                  <div className="mb-0 tp-text-grey-2">
+                    <span>
+                      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.875 7C0.875 8.62445 1.52031 10.1824 2.66897 11.331C3.81763 12.4797 5.37555 13.125 7 13.125C8.62445 13.125 10.1824 12.4797 11.331 11.331C12.4797 10.1824 13.125 8.62445 13.125 7C13.125 5.37555 12.4797 3.81763 11.331 2.66897C10.1824 1.52031 8.62445 0.875 7 0.875C5.37555 0.875 3.81763 1.52031 2.66897 2.66897C1.52031 3.81763 0.875 5.37555 0.875 7ZM14 7C14 8.85652 13.2625 10.637 11.9497 11.9497C10.637 13.2625 8.85652 14 7 14C5.14348 14 3.36301 13.2625 2.05025 11.9497C0.737498 10.637 0 8.85652 0 7C0 5.14348 0.737498 3.36301 2.05025 2.05025C3.36301 0.737498 5.14348 0 7 0C8.85652 0 10.637 0.737498 11.9497 2.05025C13.2625 3.36301 14 5.14348 14 7ZM7.12775 4.368C6.06725 4.368 5.44162 5.173 5.44162 6.55725V7.48475C5.44162 8.85938 6.05675 9.639 7.12775 9.639C7.98438 9.639 8.56363 9.12625 8.64062 8.39825H9.77375V8.47962C9.68625 9.74662 8.589 10.6383 7.1225 10.6383C5.29288 10.6383 4.26213 9.46925 4.26213 7.48563V6.54675C4.26213 4.56838 5.313 3.3635 7.12337 3.3635C8.59425 3.3635 9.6915 4.28575 9.77375 5.614V5.691H8.64062C8.56363 4.92188 7.96863 4.368 7.12775 4.368Z" fill="#999999" />
+                      </svg>
+                    </span>
+                    Copyright 2025 <a className="tp-text-common-white hover-text-primary" href="#">ThemePure.</a> All Right Reserves. 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;
+
