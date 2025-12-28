@@ -30,7 +30,7 @@ const Header: React.FC = () => {
                   <span></span>
                 </button>
                 <div className="tp-header-btn tp-header-btn-spacing ml-15 d-none d-sm-inline-block">
-                  <a href="contact-dark#" className="tp-btn-lg d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-white text-uppercase ls-0 tp-btn-switch-animation tp-text-common-black hover-text-black tp-ff-heading fw-500">
+                  <a href="/contact" className="tp-btn-lg d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-white text-uppercase ls-0 tp-btn-switch-animation tp-text-common-black hover-text-black tp-ff-heading fw-500">
                     <span className="d-flex align-items-center justify-content-center">
                       <span className="btn-text">Let’s Talk</span>
                       <span className="btn-icon">

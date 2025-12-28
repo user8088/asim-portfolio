@@ -69,9 +69,9 @@ const Footer: React.FC = () => {
                 <div className="tp-footer-pp-widget mb-40 tp_fade_anim" data-delay=".5">
                   <h3 className="tp-footer-widget-title fw-500 fs-25 mb-10 text-uppercase tp-text-common-white">Quick Links</h3>
                   <ul>
-                    <li><a href="#">About Me</a></li>
-                    <li><a href="#">My Portfolio</a></li>
-                    <li><a href="#">Contact Me</a></li>
+                    <li><a href="/">About Me</a></li>
+                    <li><a href="/portfolio">My Portfolio</a></li>
+                    <li><a href="/contact">Contact Me</a></li>
                   </ul>
                 </div>
               </div>

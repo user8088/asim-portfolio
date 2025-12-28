@@ -40,12 +40,12 @@ const Services: React.FC = () => {
               </div>
               <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                 <div className="tp-service-pp-content">
-                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="service-details-dark#">UI/UX Design</a></h4>
+                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="/service-details">UI/UX Design</a></h4>
                   <p className="fs-18 tp-text-grey-2 mb-55">
                     Whether you need stunning visuals for your website, captivating graphics <br /> for your marketing materials, or innovative UI/UX designs for your app, our <br /> team of experts is here to turn your vision into reality.
                   </p>
                   <div className="tp-service-pp-btn pb-90">
-                    <a href="service-details-dark#" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
+                    <a href="/service-details" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
                       <span className="d-flex align-items-center justify-content-center">
                         <span className="btn-text">See Our Services</span>
                         <span className="btn-icon">
@@ -84,12 +84,12 @@ const Services: React.FC = () => {
               </div>
               <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                 <div className="tp-service-pp-content">
-                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="service-details-dark#">User Research</a></h4>
+                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="/service-details">User Research</a></h4>
                   <p className="fs-18 tp-text-grey-2 mb-55">
                     Whether you need stunning visuals for your website, captivating graphics <br /> for your marketing materials, or innovative UI/UX designs for your app, our <br /> team of experts is here to turn your vision into reality.
                   </p>
                   <div className="tp-service-pp-btn pb-90">
-                    <a href="service-details-dark#" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
+                    <a href="/service-details" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
                       <span className="d-flex align-items-center justify-content-center">
                         <span className="btn-text">See Our Services</span>
                         <span className="btn-icon">
@@ -128,12 +128,12 @@ const Services: React.FC = () => {
               </div>
               <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                 <div className="tp-service-pp-content">
-                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="service-details-dark#">Branding</a></h4>
+                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="/service-details">Branding</a></h4>
                   <p className="fs-18 tp-text-grey-2 mb-55">
                     Whether you need stunning visuals for your website, captivating graphics <br /> for your marketing materials, or innovative UI/UX designs for your app, our <br /> team of experts is here to turn your vision into reality.
                   </p>
                   <div className="tp-service-pp-btn pb-90">
-                    <a href="service-details-dark#" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
+                    <a href="/service-details" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
                       <span className="d-flex align-items-center justify-content-center">
                         <span className="btn-text">See Our Services</span>
                         <span className="btn-icon">
@@ -172,12 +172,12 @@ const Services: React.FC = () => {
               </div>
               <div className="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                 <div className="tp-service-pp-content">
-                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="service-details-dark#">3D & Motion</a></h4>
+                  <h4 className="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a className="tp_text_invert" href="/service-details">3D & Motion</a></h4>
                   <p className="fs-18 tp-text-grey-2 mb-55">
                     Whether you need stunning visuals for your website, captivating graphics <br /> for your marketing materials, or innovative UI/UX designs for your app, our <br /> team of experts is here to turn your vision into reality.
                   </p>
                   <div className="tp-service-pp-btn pb-90">
-                    <a href="service-details-dark#" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
+                    <a href="/service-details" className="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
                       <span className="d-flex align-items-center justify-content-center">
                         <span className="btn-text">See Our Services</span>
                         <span className="btn-icon">

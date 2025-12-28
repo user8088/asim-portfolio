@@ -18,7 +18,7 @@ const Blog: React.FC = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="left" data-ease="bounce">
-              <a href="blog-details-dark#" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+              <a href="/blog-details" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                 <div className="tp--hover-img" data-displacement="/assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
                   <img className="w-100" src="/assets/img/blog/pp/thumb.jpg" alt="" />
                 </div>
@@ -29,14 +29,14 @@ const Blog: React.FC = () => {
                   <span className="borders"></span>
                   <span>02 Feb, 2025</span>
                 </div>
-                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="blog-details-dark#">How to Conduct Effective 
+                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="/blog-details">How to Conduct Effective 
                   User Research for Better Product Decisions</a></h3>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="bottom" data-ease="bounce">
-              <a href="blog-details-dark#" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+              <a href="/blog-details" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                 <div className="tp--hover-img" data-displacement="/assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
                   <img className="w-100" src="/assets/img/blog/pp/thumb-2.jpg" alt="" />
                 </div>
@@ -47,14 +47,14 @@ const Blog: React.FC = () => {
                   <span className="borders"></span>
                   <span>02 Feb, 2025</span>
                 </div>
-                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="blog-details-dark#">How to Conduct Effective 
+                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="/blog-details">How to Conduct Effective 
                   User Research for Better Product Decisions</a></h3>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="right" data-ease="bounce">
-              <a href="blog-details-dark#" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+              <a href="/blog-details" className="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                 <div className="tp--hover-img" data-displacement="/assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
                   <img className="w-100" src="/assets/img/blog/pp/thumb-3.jpg" alt="" />
                 </div>
@@ -65,7 +65,7 @@ const Blog: React.FC = () => {
                   <span className="borders"></span>
                   <span>02 Feb, 2025</span>
                 </div>
-                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="blog-details-dark#"> How to Conduct Effective 
+                <h3 className="tp-text-common-white fs-25 fs-xl-22 lh-140-per"><a className="underline-black" href="/blog-details"> How to Conduct Effective 
                   User Research for Better Product Decisions</a></h3>
               </div>
             </div>

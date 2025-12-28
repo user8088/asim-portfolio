@@ -31,7 +31,15 @@ const Offcanvas: React.FC = () => {
             </div>
           </div>
           <div className="tp-offcanvas-menu counter-row">
-            <nav></nav>
+            <nav>
+              <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/service-details">Services</a></li>
+                <li><a href="/portfolio">Portfolio</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/contact">Contact</a></li>
+              </ul>
+            </nav>
           </div>
         </div>
         <div className="tp-offcanvas-2-right right-box d-none d-md-block p-relative">
